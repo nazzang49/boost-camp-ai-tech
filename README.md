@@ -1,5 +1,5 @@
 # Boost Camp AI Tech
-## Based on Pre-course and Regular Curriculum
+## Based on Pre ourse and Regular Curriculum
 ### Source
 - Python Basic
 - Math Basic
