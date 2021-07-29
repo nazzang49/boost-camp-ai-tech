@@ -17,3 +17,4 @@
 - (NLP) https://wikidocs.net/book/2155
 - (DNN) https://ko.d2l.ai/index.html
 - (ML Dictionary) https://developers.google.com/machine-learning/glossary/?hl=ko
+- (PyTorch Basic) https://www.boostcourse.org/ai214/home
