@@ -21,3 +21,4 @@
 - (Data Science School) https://datascienceschool.net/
 - (Numpy Docs) https://numpy.org/doc/stable/index.html
 - (Scipy Docs) https://docs.scipy.org/doc/scipy/index.html
+- (DL Concepts) https://eehoeskrap.tistory.com/
